@@ -22,10 +22,26 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-
 ## Steps to Run the application 
+
+* clone the repo from https://github.com/tocallrajesh/angular-crud-app.git
+* Go to angular-crud-app directory
+* Run npm install
+* Run npm start
+* Open http://localhost:4200/ on your browser
+* Resister a new user
+* Login with new user username and password
+
+## Login page 
+
+![Login page](src/assets/login.png)
+
+## Register page 
+
+## User List page 
+
+## Add New User page
+
+## Update User page
+
 
