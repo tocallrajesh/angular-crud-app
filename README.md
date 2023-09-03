@@ -29,8 +29,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 * Run npm install
 * Run npm start
 * Open http://localhost:4200/ on your browser
-* Resister a new user
-* Login with new user username and password
+* Register a new user
+* Login with new user credentials (username and password)
 
 ## Login page 
 
