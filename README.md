@@ -34,14 +34,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Login page 
 
-![Login page](src/assets/login.png)
+![Alt text](src/assets/login.png)
 
 ## Register page 
 
-## User List page 
+![Alt text](src/assets/register.png)
+
+## User List page
+
+![Alt text](src/assets/listing.png)
 
 ## Add New User page
 
-## Update User page
+![Alt text](src/assets/addUser.png)
+
+## Edit User page
+
+![Alt text](src/assets/editUser.png)
 
 
