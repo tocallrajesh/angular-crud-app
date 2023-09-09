@@ -1,0 +1,9 @@
+<!-- <div *ngIf="show" class="loaderMask">
+    loading
+</div> -->
+<div class="progress-loader" [hidden]="!show">
+    <div class="loading-spinner">
+        <img src="./../../assets/loading-bar.png" width="100" height="100">
+        <span class="loading-message">Please wait...</span>
+    </div>
+</div>
